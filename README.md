@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Likhitha Kempegowda
 
+🔗 [LinkedIn](https://linkedin.com/in/likitha-k)
+
+
 Welcome to my little corner of the internet!
 
 I'm a **Data Scientist & Analyst** with a strong belief that good data, when combined with clear communication and thoughtful design, can drive real-world impact - whether it's informing public health decisions, uncovering trade risks, or helping organizations make smarter business moves.
